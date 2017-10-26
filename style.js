@@ -25,7 +25,9 @@ let style = StyleSheet.create({
     justifyContent: 'center'
   },
   dateText: {
-    color: '#333'
+      color: '#333',
+      paddingTop: 20,
+      fontSize: 18  
   },
   placeholderText: {
     color: '#c9c9c9'
